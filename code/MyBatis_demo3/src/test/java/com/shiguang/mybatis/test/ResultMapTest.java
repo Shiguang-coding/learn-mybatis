@@ -1,4 +1,4 @@
-package com.shiguang.mybatis.test;
+package java.com.shiguang.mybatis.test;
 
 import com.atguigu.mybatis.mapper.DeptMapper;
 import com.atguigu.mybatis.mapper.EmpMapper;

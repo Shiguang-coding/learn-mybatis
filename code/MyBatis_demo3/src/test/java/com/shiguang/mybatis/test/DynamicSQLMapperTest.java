@@ -1,4 +1,4 @@
-package com.shiguang.mybatis.test;
+package java.com.shiguang.mybatis.test;
 
 import com.atguigu.mybatis.mapper.DynamicSQLMapper;
 import com.atguigu.mybatis.pojo.Emp;

@@ -1,4 +1,4 @@
-package com.shiguang.mybatis.test;
+package java.com.shiguang.mybatis.test;
 
 import com.atguigu.mybatis.mapper.CacheMapper;
 import com.atguigu.mybatis.pojo.Emp;
